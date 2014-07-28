@@ -82,6 +82,15 @@
   <ItemGroup>
     <ClCompile Include="Level7.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Level7.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="sound.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
