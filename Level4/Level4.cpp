@@ -1,5 +1,5 @@
 /*
-* Level4 : 
+* Level4 : Cannot turn on Internet Explorer
 * Author : Lee <jhlcooky@gmail.com>, Kim<vsp123@naver.com>
 */
 
