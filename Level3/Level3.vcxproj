@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F7DECD80-D5BC-4AB4-9660-6D9528202221}</ProjectGuid>
+    <ProjectGuid>{FA25644F-48EE-4A32-8C21-C824902F6785}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Level2</RootNamespace>
+    <RootNamespace>Level3</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -80,7 +80,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Level2.cpp" />
+    <ClCompile Include="Level3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
