@@ -15,4 +15,5 @@ int main()
 	{
 		MessageBoxW(NULL, L"Welcome to the VirusCollection!\nGood luck!", L"Level1", MB_OK);
 	}
+	return 0;
 }
