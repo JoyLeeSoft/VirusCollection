@@ -16,7 +16,6 @@ int main()
 	while (true)
 	{
 		TextOutW(hDC, 10, 10, msg, wcslen(msg));
-		Sleep(50);
 	}
 
 	ReleaseDC(NULL, hDC);

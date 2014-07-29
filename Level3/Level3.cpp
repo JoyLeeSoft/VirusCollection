@@ -14,7 +14,7 @@ int main()
 	while (true)
 	{
 		SetCursorPos(0, 0);
-		Sleep(10000);
+		Sleep(250);
 	}
 
 	return 0;
