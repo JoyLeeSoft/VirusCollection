@@ -1,6 +1,6 @@
 /*
 * Level8 : Cmd Generator
-* Author : Lee <jhlcooky@gmail.com>, Kim<vsp123@naver.com> Seo <dev_kr@naver.com>
+* Author : Lee <jhlcooky@gmail.com>, Kim<vsp123@naver.com>, Seo <dev_kr@naver.com>
 */
 
 #include <windows.h>
